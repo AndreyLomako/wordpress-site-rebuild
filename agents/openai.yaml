@@ -1,0 +1,4 @@
+interface:
+  display_name: "Перенос сайта на WordPress"
+  short_description: "Стили и контент сайта в управляемую тему WordPress"
+  default_prompt: "Используй $wordpress-site-rebuild: изучи указанный сайт в браузере, перенеси его оформление и контент в WordPress с ACF и проверь соответствие оригиналу."
